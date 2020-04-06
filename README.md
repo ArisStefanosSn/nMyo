@@ -11,5 +11,5 @@ git clone https://github.com/ArisStefanosSn/nMyo
 The package can be installed in R as:
 
 ```r
-library(devtools)
+install.packages("nMyo_1)
 ```
